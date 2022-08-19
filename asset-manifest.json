@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Increment-Game/static/css/main.0a0bbd4a.css",
+    "main.js": "/Increment-Game/static/js/main.2096ef11.js",
+    "index.html": "/Increment-Game/index.html",
+    "main.0a0bbd4a.css.map": "/Increment-Game/static/css/main.0a0bbd4a.css.map",
+    "main.2096ef11.js.map": "/Increment-Game/static/js/main.2096ef11.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a0bbd4a.css",
+    "static/js/main.2096ef11.js"
+  ]
+}
